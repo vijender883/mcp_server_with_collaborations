@@ -1,7 +1,7 @@
 {
   "mcpServers": {
       "MCP-text-analysis": {
-          "command": "python",
+          "command": "address of your virtual env python comipler, Eg: /home/user001/Desktop/work3/mcp_server_with_collaborations/venv/bin/python3",
           "args": ["mcp_server.py absolute script path"],
           "host": "127.0.0.1",
           "port": 8080,
