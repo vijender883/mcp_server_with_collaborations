@@ -14,8 +14,8 @@ This guide will help you set up and configure MCP (Model Context Protocol) serve
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/vijender883/mcp_server_with_collaborations
+cd mcp_server_with_collaborations
 ```
 
 ### 2. Create a Virtual Environment
